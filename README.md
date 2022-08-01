@@ -10,7 +10,7 @@ You could follow or contact me by following social accounts:
 
 And I am also a keen Mineeraft player, so you could also call me `Gohi_win` - XD - as it's my game ID.
 
-Uh almost forget! Here is my brief self-introduction:
+Uh, almost forget! Here is my brief self-introduction:
 
 ![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+an+college+student+without+any+achievements)
 
@@ -42,8 +42,8 @@ But you can visit the demo page with some **useless** tiny apps: [cnily.top](htt
 
 ## Something You Might Be Interested In
 
-[NKID00/minimal-teleportation](https://github.com/NKID00/minimal-teleportation): TeamInEssensials - A Minecraft server mod for team playing
+[NKID00/minimal-teleportation](https://github.com/NKID00/minimal-teleportation) - TeamInEssensials - A Minecraft server mod for team playing
 
-[Cnily03/bilibili-download](https://github.com/Cnily03/bilibili-download): Bilibili Download - A console-launching download script
+[Cnily03/bilibili-download](https://github.com/Cnily03/bilibili-download) - Bilibili Download - A console-launching download script
 
-[Cnily03/mc-server-webctrl](https://github.com/Cnily03/mc-server-webctrl): Minecraft Server Web Control - A website to control to Minecraft server
+[Cnily03/mc-server-webctrl](https://github.com/Cnily03/mc-server-webctrl) - Minecraft Server Web Control - A website to control to Minecraft server
