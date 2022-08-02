@@ -1,6 +1,8 @@
 ### Hello Greetings! Cnily03's Here ~
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cnily03&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" align="right"/>
+<a href="##">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cnily03&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" align="right"/>
+</a>
 
 You could follow or contact me by following social accounts:
 
@@ -12,15 +14,17 @@ And I am also a keen Mineeraft player, so you could also call me `Gohi_win` - XD
 
 Uh, almost forget! Here is my brief self-introduction:
 
-![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+an+college+student+without+any+achievements)
+[![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+an+college+student+without+any+achievements)](##)
 
 ---
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
 
 ## Poor Talent - People in the world are always learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnily03&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" align="right"/>
+<a href="##">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnily03&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" align="right" />
+</a>
 
 ### Blog Website
 
@@ -42,7 +46,7 @@ But you can visit the demo page with some **useless** tiny apps: [cnily.top](htt
 
 ## Something You Might Be Interested In
 
-[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssensials - A Minecraft server mod for team playing
+[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssentials - A Minecraft server mod for team playing
 
 [Cnily03/bilibili-download](https://github.com/Cnily03/bilibili-download) - Bilibili Download - A console-launching download script
 
