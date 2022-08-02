@@ -42,7 +42,7 @@ But you can visit the demo page with some **useless** tiny apps: [cnily.top](htt
 
 ## Something You Might Be Interested In
 
-[NKID00/minimal-teleportation](https://github.com/NKID00/minimal-teleportation) - TeamInEssensials - A Minecraft server mod for team playing
+[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssensials - A Minecraft server mod for team playing
 
 [Cnily03/bilibili-download](https://github.com/Cnily03/bilibili-download) - Bilibili Download - A console-launching download script
 
