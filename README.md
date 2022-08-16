@@ -14,7 +14,7 @@ And I am also a keen Mineeraft player, so you could also call me `Gohi_win` - XD
 
 Uh, almost forget! Here is my brief self-introduction:
 
-[![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+an+college+student+without+any+achievements)](##)
+[![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+a+college+student+without+any+achievements.)](##)
 
 ---
 
