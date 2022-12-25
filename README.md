@@ -18,7 +18,7 @@ Uh, almost forget! Here is my brief self-introduction:
 
 ---
 
-[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
+[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
 
 ## Poor Talent - People in the world are always learning
 
