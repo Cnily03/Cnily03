@@ -28,9 +28,9 @@ Uh, almost forget! Here is my brief self-introduction:
 
 ### Blog Website
 
-I am currently developing it XD.
+Blog: [cnily.me](https://cnily.me)
 
-But you can visit the demo page with some **useless** tiny apps: [cnily.top](https://cnily.top)
+Demo page with some **useless** tiny apps: [cnily.top](https://cnily.top)
 
 ### Skilled Languages
 
@@ -45,6 +45,8 @@ But you can visit the demo page with some **useless** tiny apps: [cnily.top](htt
 ---
 
 ## Something You Might Be Interested In
+
+[Cnily03/ctf-bot](https://github.com/Cnily03/ctf-bot) - CTF Bot - A discord bot for providing useful utilities for CTFer
 
 [NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssentials - A Minecraft server mod for team playing
 
