@@ -30,26 +30,20 @@ Uh, almost forget! Here is my brief self-introduction:
 
 Blog: [cnily.me](https://cnily.me)
 
-Demo page with some **useless** tiny apps: [cnily.top](https://cnily.top)
-
-### Skilled Languages
-
-- JavaScript (Frond-End & Back-End)
-
-### Reading At Present
-
-- *Introduction to Algorithms*
-- *An Introduction to Political Philosophy*
-- *Crime & Punishment*
+Demo page with some **useless** tiny apps: [cnily.top](https://cnily.top) (Close now)
 
 ---
 
 ## Something You Might Be Interested In
 
+[Cnily03/universal-payment](https://github.com/Cnily03/universal-payment) - Universal Payment - A static page to show universal sponsor QRCode
+
 [Cnily03/ctf-bot](https://github.com/Cnily03/ctf-bot) - CTF Bot - A discord bot for providing useful utilities for CTFer
 
-[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssentials - A Minecraft server mod for team playing
+[Cnily03/oicq-sdk](https://github.com/Cnily03/oicq-sdk) - OICQ SDK - Offer SDK to build a QQ bot more easily using Node.js based on takayama-lily/oicq
 
-[Cnily03/bilibili-download](https://github.com/Cnily03/bilibili-download) - Bilibili Download - A console-launching download script
+[NKID00/u00a7](https://github.com/NKID00/u00a7) - u00a7 - A Minecraft mod bringing back the good old formatting codes.
+
+[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssentials - A Minecraft server mod for team playing
 
 [Cnily03/mc-server-webctrl](https://github.com/Cnily03/mc-server-webctrl) - Minecraft Server Web Control - A website to control to Minecraft server
