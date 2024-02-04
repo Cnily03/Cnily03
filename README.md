@@ -1,4 +1,8 @@
-### Hello Greetings! Cnily03's Here ~
+### ko no Cnily03 de su ~
+
+A quite breif self-instroducton is as follows:
+
+[![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+a+college+student+without+any+achievements.)](##)
 
 <a href="##">
   <img src="https://github-readme-stats.vercel.app/api?username=Cnily03&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" align="right"/>
@@ -7,43 +11,47 @@
 You could follow or contact me by following social accounts:
 
 [![Github](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCnily03&labelColor=181717&color=30363D&style=flat-square&logo=github&longCache=true)](https://github.com/Cnily03)
-[![知乎](https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dcnily03&labelColor=0066ff&color=00A4FF&style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iOTYiIGhlaWdodD0iOTYiPjxwYXRoIGQ9Ik01NDQuOTQ5IDU2MS40MjJzMC03MS4zODctMzQuNzc5LTc1LjA1MGMtMzQuNzc5LTMuNjYzLTE0Mi43NzUgMC0xNDIuNzc1IDB2LTIxOS42NTRoMTYxLjA3OHMtMS44My03My4yMTktMzIuOTQ5LTczLjIxOWgtMjYxLjc1NWw0My45My0xMTcuMTQ4cy02NS44OTcgMy42NjMtODkuNjkyIDQ1Ljc2MS05OC44NDQgMjUyLjYwNC05OC44NDQgMjUyLjYwNCAyNS42MjcgMTAuOTgzIDY3LjcyNi0yMC4xMzRjNDIuMTAxLTMxLjExNiA1Ni43NDMtODYuMDMzIDU2Ljc0My04Ni4wMzNsNzYuODc5LTMuNjYzIDEuODMgMjIzLjMxNnMtMTMzLjYyMS0xLjgzLTE2MS4wNzggMGMtMjcuNDU3IDEuODMtNDIuMTAxIDc1LjA1MC00Mi4xMDEgNzUuMDUwaDIwMy4xODJzLTE4LjMwNyAxMjQuNDctNjkuNTU3IDIxNC4xNjRjLTUzLjA4NSA4OS42OTItMTUxLjkyOSAxNjEuMDc4LTE1MS45MjkgMTYxLjA3OHM3MS4zODcgMjkuMjg3IDE0MC45NDctMTAuOTgzYzY5LjU1Ny00Mi4xMDEgMTIwLjgxMS0yMjMuMzE2IDEyMC44MTEtMjIzLjMxNmwxNjIuOTEyIDIwMy4xODJzMTQuNjQzLTk3LjAxMy0xLjgzLTEyNC40N2MtMTguMzA3LTI3LjQ1Ny0xMTMuNDktMTM3LjI4My0xMTMuNDktMTM3LjI4M2wtNDIuMTAxIDM2LjYwNyAyOS4yODctMTIwLjgxMWgxNzcuNTUyek01ODcuMDUwIDE4OC4wMTBsLTEuODMgNjYwLjc5M2g2NS44OTdsMjMuNzk1IDgyLjM3IDExNS4zMjEtODIuMzdoMTYyLjkxMnYtNjYwLjc5M2gtMzY2LjA5MXpNODc5LjkyIDc3NS41ODRoLTc2Ljg3OWwtOTcuMDEzIDc1LjA1MC0yMS45NjUtNzUuMDUwaC0yMC4xMzR2LTUxMi41MjdoMjE1Ljk5MXY1MTIuNTI3eiIgZmlsbD0iI2ZmZmZmZiIgcC1pZD0iMTYyMCI+PC9wYXRoPjwvc3ZnPg==&longCache=true)](https://www.zhihu.com/people/cnily03)
 [![BiliBili](https://img.shields.io/badge/dynamic/json?label=BiliBili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D314148718&labelColor=FB7299&color=FC8BAB&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true)](https://space.bilibili.com/314148718)
 
-And I am also a keen Mineeraft player, so you could also call me `Gohi_win` - XD - as it's my game ID.
+My websites:
 
-Uh, almost forget! Here is my brief self-introduction:
+- Blog: [cnily.me](https://cnily.me)
 
-[![Slef-Introduction](https://readme-typing-svg.herokuapp.com?font=consolas&size=15&height=25&vCenter=true&lines=Only+a+college+student+without+any+achievements.)](##)
+- Demo page: [cnily.top](https://cnily.top)
+
+Moreover, I am also a keen Mineeraft player.
 
 ---
 
-[![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cnily03&bg_color=161B22&color=528BFF&line=4879DC&point=C9D1D9)](##)
 
-## Poor Talent - People in the world are always learning
+## Fields
 
 <a href="##">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnily03&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" align="right" />
 </a>
 
-### Blog Website
+Research directions:
 
-Blog: [cnily.me](https://cnily.me)
+- **Information Security**: Hardware attack and defense, intranet penetration
+- **Artificial Intelligence**: Image Recognition, Natural Language Processing
 
-Demo page with some **useless** tiny apps: [cnily.top](https://cnily.top) (Close now)
+Interests:
+
+- Complier Design
+- Application Development
+- Web Backend
 
 ---
 
-## Something You Might Be Interested In
+## Something Interesting
 
-[Cnily03/universal-payment](https://github.com/Cnily03/universal-payment) - Universal Payment - A static page to show universal sponsor QRCode
+[Cnily03/universal-payment](https://github.com/Cnily03/universal-payment) - Universal Payment - A static page to show one sponsor QRCode supporting multiple platforms
 
-[Cnily03/ctf-bot](https://github.com/Cnily03/ctf-bot) - CTF Bot - A discord bot for providing useful utilities for CTFer
+[Cnily03/ssl-autoupdater](https://github.com/Cnily03/ssl-autoupdater) - SSL Updater - A script to update maually uploaded SSL certificate on QCloud and Qiniu
 
-[Cnily03/oicq-sdk](https://github.com/Cnily03/oicq-sdk) - OICQ SDK - Offer SDK to build a QQ bot more easily using Node.js based on takayama-lily/oicq
+[Cnily03/single-cycle-cpu](https://github.com/Cnily03/single-cycle-cpu) - Single Cycle CPU - A single cycle CPU implemented in Verilog
 
 [NKID00/u00a7](https://github.com/NKID00/u00a7) - u00a7 - A Minecraft mod bringing back the good old formatting codes.
 
-[NKID00/TeamInEssentials](https://github.com/NKID00/TeamInEssentials) - TeamInEssentials - A Minecraft server mod for team playing
-
-[Cnily03/mc-server-webctrl](https://github.com/Cnily03/mc-server-webctrl) - Minecraft Server Web Control - A website to control to Minecraft server
+[Cnily03/cshell](https://github.com/Cnily03/cshell) - Reverse shell tool for CTF - Supporting directory or content mounting
