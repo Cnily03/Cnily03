@@ -36,6 +36,6 @@ My ID is Cnily03, AKA TampooCat.
 
 🎲 **Playing:** MineCraft, Star Rail
 
-📖 **Directions:** AI Security / Natural Language Processing
+📖 **Directions:** AI Security / Web Security / HDC *- exploring...*
 
-🩷 **Interests:** Compiler Design / Web Backend
+🩷 **Interests:** Compiler Design / Web Backend *- time limited...*
