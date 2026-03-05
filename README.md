@@ -11,9 +11,9 @@ Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
 
 <a href="##">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-snk.cnily.me/api/Cnily03?theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-snk.cnily.me/api/Cnily03?theme=light" />
-    <img title="Github Commit Snake" src="https://gh-snk.cnily.me/api/Cnily03" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cnily03.github.io/Cnily03/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cnily03.github.io/Cnily03/github-snake.svg" />
+    <img title="Github Commit Snake" src="https://cnily03.github.io/Cnily03/github-snake.svg" />
   </picture>
 </a>
 
