@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My ID is Cnily03, AKA TampooCat.
+Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
 
 [![Github](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCnily03&labelColor=181717&color=30363D&style=flat-square&logo=github&longCache=true)](https://github.com/Cnily03)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/5638)
@@ -9,10 +9,20 @@ My ID is Cnily03, AKA TampooCat.
 
 ---
 
-[![Github Commit Snake](https://cnily03.github.io/Cnily03/github-snake-dark.svg)](##)
+<a href="##">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-snk.cnily.me/api/Cnily03?theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-snk.cnily.me/api/Cnily03?theme=light" />
+    <img title="Github Commit Snake" src="https://gh-snk.cnily.me/api/Cnily03" />
+  </picture>
+</a>
 
 <a href="##">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cnily03&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" style="height: 160px; max-width: 100%;" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
+    <img title="Top Lang" src="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 160px; max-width: 100%;" align="right" />
+  </picture>
 </a>
 
 ## ✨ Using
@@ -29,13 +39,17 @@ My ID is Cnily03, AKA TampooCat.
 ---
 
 <a href="##">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cnily03&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" style="height: 155px; max-width: 100%;" align="right" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
+    <img title="GitHub Stats" src="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 155px; max-width: 100%;" align="right" />
+  </picture>
 </a>
 
-🌐 **Website:** [cnily.me](https://cnily.me) / [tampoo.io](https://tampoo.io)
+🌐 **Website:** [cnily.me](https://cnily.me) / [muki.pro](https://muki.pro)
 
-🎲 **Playing:** MineCraft, Star Rail
+🎲 **Playing:** MineCraft, Honkai: Star Rail, Project SEKAI: Colorful Stage! feat. Hatsune Miku, maimai, chunithm
 
-📖 **Directions:** AI Security / Web Security / HDC *- exploring...*
+📖 **Directions:** Web Security *- exploring...*
 
-🩷 **Interests:** Compiler Design / Web Backend *- time limited...*
+🩷 **Interests:** Web Backend / Rhythm games *- time limited...*
