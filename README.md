@@ -7,25 +7,23 @@ Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Cnily03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:cnily03@gmail.com)
 
----
-
 <a href="##">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cnily03.github.io/Cnily03/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cnily03.github.io/Cnily03/github-snake.svg" />
-    <img title="Github Commit Snake" src="https://cnily03.github.io/Cnily03/github-snake.svg" />
+    <img title="Github Commit Snake" src="https://cnily03.github.io/Cnily03/github-snake.svg" style="width: 100%;" />
   </picture>
 </a>
 
 <a href="##">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
-    <img title="Top Lang" src="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 160px; max-width: 100%;" align="right" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
+    <img title="GitHub Stats" src="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 155px; max-width: 70%;" align="right" />
   </picture>
 </a>
 
-## ✨ Using
+### ✨ Using
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=fff)
@@ -36,20 +34,38 @@ Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
 ![OS](https://img.shields.io/badge/OS-Ubuntu%2024%2e04-e95420?style=flat-square&logo=windows&logoColor=fff)
 ![OS](https://img.shields.io/badge/IDE-VSCode-0078d4?style=flat-square&logo=windows&logoColor=fff)
 
----
+🌐 **Website:** [cnily.me](https://cnily.me) / [muki.pro](https://muki.pro)
 
 <a href="##">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
-    <img title="GitHub Stats" src="https://gh-stats.cnily.me/api?username=Cnily03&show_icons=true&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 155px; max-width: 100%;" align="right" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=C9D1D9&title_color=528BFF&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" />
+    <img title="Top Lang" src="https://gh-stats.cnily.me/api/top-langs/?username=Cnily03&layout=compact&bg_color=00000000&text_color=434D58&title_color=528BFF&hide_border=true" style="height: 160px; max-width: 70%;" align="right" />
   </picture>
 </a>
 
-🌐 **Website:** [cnily.me](https://cnily.me) / [muki.pro](https://muki.pro)
+### 📖 Working on
 
-🎲 **Playing:** MineCraft, Honkai: Star Rail, Project SEKAI: Colorful Stage! feat. Hatsune Miku, maimai, chunithm
+- **Directions:** Web Security *- climbing...*
 
-📖 **Directions:** Web Security *- exploring...*
+- **Interests:** Web Backend *- time limited...*
 
-🩷 **Interests:** Web Backend / Rhythm games *- time limited...*
+- **Participating:** Various CTF games *- exploring...*
+
+<div align="center"><h3> - Per aspera ad astra - </h3></div>
+
+---
+
+### 🎲 Entertainment
+
+A deep anime enthusiast, keen rythm game player.
+
+- Minecraft
+- Honkai: Star Rail
+- Project SEKAI: Colorful Stage! feat. Hatsune Miku
+- maimai
+- chunithm
+
+![25時、ナイトコードで](./images/sekai-25ji.png)
+![花里 みのり](./images/sekai-minori.png)
+![Recruiting](./images/sekai-recruiting.png)
