@@ -66,6 +66,6 @@ A deep anime enthusiast, keen rythm game player.
 - maimai
 - chunithm
 
-![25時、ナイトコードで](./images/sekai-25ji.png)
-![花里 みのり](./images/sekai-minori.png)
-![Recruiting](./images/sekai-recruiting.png)
+<a href="##"><img title="25時、ナイトコードで" src="./images/sekai-25ji.png" style="height: 39px; max-width: 30%;" /></a>
+<a href="##"><img title="花里 みのり" src="./images/sekai-minori.png" style="height: 39px; max-width: 30%;" /></a>
+<a href="##"><img title="Recruiting" src="./images/sekai-recruiting.png" style="height: 39px; max-width: 30%;" /></a>
