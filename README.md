@@ -23,7 +23,7 @@ Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
   </picture>
 </a>
 
-### ✨ Using
+### 🧑‍💻 Using
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=fff)
@@ -52,13 +52,13 @@ Here's Cnily03, a.k.a. Jevon Wang, 若葉ムキ.
 
 - **Participating:** Various CTF games *- exploring...*
 
-<div align="center"><h3> - Per aspera ad astra - </h3></div>
+<div align="center"><h3> ✨ Per aspera ad astra ✨ </h3></div>
 
 ---
 
 ### 🎲 Entertainment
 
-A deep anime enthusiast, keen rythm game player.
+A deep anime enthusiast. A keen rythm game player.
 
 - Minecraft
 - Honkai: Star Rail
@@ -66,6 +66,17 @@ A deep anime enthusiast, keen rythm game player.
 - maimai
 - chunithm
 
-<a href="##"><img title="25時、ナイトコードで" src="./images/sekai-25ji.png" style="height: 39px; max-width: 30%;" /></a>
-<a href="##"><img title="花里 みのり" src="./images/sekai-minori.png" style="height: 39px; max-width: 30%;" /></a>
-<a href="##"><img title="Recruiting" src="./images/sekai-recruiting.png" style="height: 39px; max-width: 30%;" /></a>
+Loyer lover of VOCALOIDs and Girls Band:
+
+- 25 時、ナイトコードで
+- ぼっち・ざ・ろっく！
+- TOGENASHI TOGEARI
+- ~CRYCHIC~ BanG Dream! Ave Mujica
+
+<div align="center"><h3> ⚡ だって　D/N/A じゃ　語れない ⚡ </h3></div>
+
+---
+
+<a href="##"><img title="25時、ナイトコードで" src="./images/sekai-25ji.png" style="height: 39px; max-width: 31.9%;" /></a>
+<a href="##"><img title="花里 みのり" src="./images/sekai-minori.png" style="height: 39px; max-width: 31.9%;" /></a>
+<a href="##"><img title="Recruiting" src="./images/sekai-recruiting.png" style="height: 39px; max-width: 31.9%;" /></a>
