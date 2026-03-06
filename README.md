@@ -66,11 +66,11 @@ A deep anime enthusiast. A keen rythm game player.
 - maimai
 - chunithm
 
-Loyer lover of VOCALOIDs and Girls Band:
+A loyer lover of VOCALOIDs and Girls Band.
 
 - 25 時、ナイトコードで
-- ぼっち・ざ・ろっく！
-- TOGENASHI TOGEARI
+- 結束バンド @ ぼっち・ざ・ろっく！
+- TOGENASHI TOGEARI @ ガールズバンドクライ
 - ~CRYCHIC~ BanG Dream! Ave Mujica
 
 <div align="center"><h3> ⚡ だって　D/N/A じゃ　語れない ⚡ </h3></div>
